@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["notfound"],{9703:function(t,n,e){"use strict";e.r(n);var s=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",{staticClass:"text-center",attrs:{id:"notfound"}},[e("h1",[t._v("找不到")]),e("b-btn",{attrs:{size:"lg",variant:"success"},on:{click:t.gohome}},[t._v("回首頁")])],1)},o=[],c={methods:{gohome:function(){this.$router.push("/")}}},u=c,i=e("2877"),r=Object(i["a"])(u,s,o,!1,null,null,null);n["default"]=r.exports}}]);
+//# sourceMappingURL=notfound.9beb3ff8.js.map
